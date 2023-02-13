@@ -1,0 +1,47 @@
+
+.main-wrapper{
+    display:flex;
+    justify-content: flex-start;
+
+    
+    margin-left:5px;
+    
+}
+
+.sdate{
+    display:flex;
+    flex-direction: column;
+}
+.edate{
+    display:flex;
+    flex-direction: column;
+}
+.daterange{
+    display:flex;
+    justify-content:space-between;
+}
+
+.pagination{
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+.hotel-info{
+    display:flex;
+    gap:20px;
+    margin-bottom: 30px;
+}
+
+.hotel-img{
+    width:30%;
+    height:90px;
+   
+}
+.room-btn{
+    width:30%;
+    margin-left:5px;
+    margin-bottom:20px;
+}
+
+
